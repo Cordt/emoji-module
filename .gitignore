@@ -1,0 +1,14 @@
+Packages
+.build
+xcuserdata
+*.xcodeproj
+DerivedData/
+.DS_Store
+db.sqlite
+.swiftpm
+*.resolved
+.env
+.env.development
+.env.testing
+/Public
+/Resources
