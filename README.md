@@ -7,6 +7,6 @@ This module is reponsible for replacing emojis for [Feather CMS](https://github.
 
 Simply enable the content filter `Textual emoji representations` in the Metadata of any Content element in the CMS.
 Now all textual emoji representations will be replaced in this article. For example
-:corn: --> 🌽
-:bowling: --> 🎳
-:bouquet: --> 💐
+* `:corn:` --> 🌽
+* `:bowling:` --> 🎳
+* `:bouquet:` --> 💐
